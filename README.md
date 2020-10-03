@@ -16,6 +16,12 @@
 
 - *Bu yazımda dart dilinde ve diğer dillerde kullanımını sıklıkla gördüğüm bazı yazılım yapılarını anlatmaya çalıştım.*
 
+![Dart Resim](https://github.com/ummuhan/MediumStudies/blob/main/images/3.png)
+
+## Dart Control and Loop Structures
+
+- *Bu yazımda dart dilinde ve diğer dillerde kullanılması neredeyse şart olan loop ve control yapılarını anlatmaya çalıştım.*
+
 <p>
 Daha detaylı bilgi için aşağıdaki linklerden yazılarımı okuyabilirsiniz. :+1: 
 </p>
