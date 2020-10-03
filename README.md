@@ -18,18 +18,19 @@
 
 <p>
 Daha detaylı bilgi için aşağıdaki linklerden yazılarımı okuyabilirsiniz. :+1: 
-  
 </p>
 <p>
-:love_letter: [ummuhanoksuz1@gmail.com](https://mail.google.com/mail/u/0/?hl=tr#inbox)
+:love_letter: 
 </p>
+[ummuhanoksuz1@gmail.com](https://mail.google.com/mail/u/0/?hl=tr#inbox)
 <p>
-  :computer: [Linkedin](https://www.linkedin.com/in/%C3%BCmm%C3%BChan-%C3%B6ks%C3%BCz-390b591a1/)
+:computer:
 </p>
+ [Linkedin](https://www.linkedin.com/in/%C3%BCmm%C3%BChan-%C3%B6ks%C3%BCz-390b591a1/)
 <p>
-  :squirrel: [Medium](https://medium.com/@ummuhanoksuz1)
+:squirrel:
 </p>
-
+[Medium](https://medium.com/@ummuhanoksuz1)
 
 
 # MediumStudies
