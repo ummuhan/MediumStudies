@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:navigasyon_islemleri/b_sayfasi.dart';
+import 'package:navigasyon_islemleri/c_sayfasi.dart';
 
 class ASayfasi extends StatelessWidget {
   const ASayfasi({Key key}) : super(key: key);
