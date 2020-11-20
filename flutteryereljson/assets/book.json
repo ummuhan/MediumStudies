@@ -1,0 +1,52 @@
+[
+    {
+        "kitapAdi": "Şah ve Sultan",
+        "yazar": "İskender Pala",
+        "resim": "sahvesultan"
+    },
+    {
+        "kitapAdi": "Şeker Portakalı",
+        "yazar": "Jose Mauro De Vasconcelos",
+        "resim": "sekerportakali"
+    },
+    {
+        "kitapAdi": "Momo",
+        "yazar": "Michael End ",
+        "resim": "momo"
+    },
+    {
+        "kitapAdi": "Hayvan Çiftliği",
+        "yazar": "George Orwell",
+        "resim": "hayvanciftligi"
+    },
+    {
+        "kitapAdi": "Bir İdam Mahkumunun Son Günü ",
+        "yazar": "Victor Hugo",
+        "resim": "biridammahkumununsongunu"
+    },
+    {
+        "kitapAdi": "İçimizdeki Şeytan ",
+        "yazar": "Sabahattin Ali",
+        "resim": "icimizdekiseytan"
+    },
+    {
+        "kitapAdi": "1984 ",
+        "yazar": "George Orwell",
+        "resim": "1984"
+    },
+    {
+        "kitapAdi": "Olağanüstü Bir Gece",
+        "yazar": "Stefan Zweig",
+        "resim": "olaganustubirgece"
+    },
+    {
+        "kitapAdi": "Bilinmeyen Bir Kadının Mektubu",
+        "yazar": "Stefan Zweig",
+        "resim": "bilinmeyenbirkadininmektubu"
+    },
+    {
+        "kitapAdi": "Körlük",
+        "yazar": "Jose Saramago",
+        "resim": "korluk"
+    }
+]
